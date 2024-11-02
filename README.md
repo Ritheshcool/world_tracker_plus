@@ -38,7 +38,7 @@ Git
 
 Setup
 1. Clone the Repository:
-   git clone https://github.com/your-username/travel-tracker.git
+   git clone https://github.com/Ritheshcool/world_tracker_plus.git
    cd travel-tracker
    
 2. Install Dependencies:
@@ -67,7 +67,7 @@ Usage:
 Contributing:
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
 
-1. Fork it (https://github.com/your-username/travel-tracker)
+1. Fork it https://github.com/Ritheshcool/world_tracker_plus.git
 2. Create your feature branch (git checkout -b feature/your-feature-name)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin feature/your-feature-name)
